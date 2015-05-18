@@ -6,5 +6,5 @@
     <property name="RotationToFaceNorth" value="3" />
     <property name="YOffset" value="-6" />
     <property name="AllowedTownships" value="wilderness" />
-    <property name="AllowedBiomes" value="plains,forest,pine_forest,burnt_forest,desert,snow,wasteland" />
+    <property name="AllowedBiomes" value="burnt_forest,desert,wasteland" />
 </prefab>

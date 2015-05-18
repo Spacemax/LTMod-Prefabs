@@ -6,5 +6,5 @@
     <property name="Zoning" value="Commercial" />
     <property name="AllowedTownships" value="City,town,rural" />
     <property name="AllowedBiomes" value="burnt_forest,plains,pine_forest,forest,desert,wasteland_hub,wasteland" />
-    <property name="MaxPerHub" value="1" />
+    <property name="MaxPerHub" value="2" />
 </prefab>
