@@ -5,5 +5,5 @@
     <property name="Zoning" value="Commercial" />
     <property name="YOffset" value="-1" />
     <property name="AllowedTownships" value="wilderness" />
-    <property name="AllowedBiomes" value="burnt_forest,snow,plains,pine_forest,forest,desert,wasteland" />
+    <property name="AllowedBiomes" value="desert,wasteland" />
 </prefab>
