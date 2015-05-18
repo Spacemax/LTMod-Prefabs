@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefabs>
+	<!-- City Blocks Wasteland -->
+	<decoration type="model" name="rg_waste_hub_blk_quartered" />
+	<decoration type="model" name="rg_waste_hub_blk_half" />
+	<decoration type="model" name="rg_waste_hub_blk_t" />
+	<decoration type="model" name="rg_waste_hub_blk_full" />
+	
+	<!-- Bridges -->
+	<decoration type="model" name="rg_bridge_45_01" />
+	<decoration type="model" name="rg_bridge_straight_01" />
+
+
+	<!-- Vanilla alphabetical -->
+  	<decoration type="model" name="apartment_adobe_red_5_flr" />
+  	<decoration type="model" name="apartment_brick_6_flr" />
+  	<decoration type="model" name="army_camp_01_burnt" />
+  	<decoration type="model" name="army_camp_01_grass" />
+  	<decoration type="model" name="army_camp_01_snow" />
+
+  	<decoration type="model" name="barn_01" />
+  	<decoration type="model" name="barn_02" />
+  	<decoration type="model" name="barn_03" />
+  	<decoration type="model" name="business_red_brick_01" />
+  	<decoration type="model" name="business_red_brick_02" />
+  	<decoration type="model" name="business_red_brick_03" />
+  	<decoration type="model" name="business_red_brick_04" />
+  	<decoration type="model" name="business_red_brick_05" />
+  	<decoration type="model" name="business_red_brick_06" />
+  	<decoration type="model" name="business_red_brick_07" />
+  	<decoration type="model" name="business_tan_brick_01" />
+  	<decoration type="model" name="business_tan_brick_02" />
+  	<decoration type="model" name="business_tan_brick_03" />
+  	<decoration type="model" name="business_tan_brick_04" />
+  	<decoration type="model" name="business_tan_brick_05" />
+
+  	<decoration type="model" name="cabin_01" />
+  	<decoration type="model" name="cabin_01_snow" />
+  	<decoration type="model" name="cabin_02_sm" />
+  	<decoration type="model" name="cabin_02_sm_snow" />
+  	<decoration type="model" name="cabin_03_lg" />
+  	<decoration type="model" name="cabin_03_lg_snow" />
+  	<decoration type="model" name="cabin_04_md" />
+  	<decoration type="model" name="cabin_04_md_snow" />
+  	<decoration type="model" name="cabin_05_lg" />
+  	<decoration type="model" name="cabin_06_lg" />
+  	<decoration type="model" name="campsite_01" />
+  	<decoration type="model" name="campsite_02" />
+  	<decoration type="model" name="campsite_03" />
+  	<decoration type="model" name="campsite_04" />
+  	<decoration type="model" name="campsite_06" />
+  	<decoration type="model" name="campsite_06a" />
+  	<decoration type="model" name="campsite_07" />
+  	<decoration type="model" name="campsite_07a" />
+  	<decoration type="model" name="church_graveyard1" />
+
+  	<decoration type="model" name="factory_lg_01" />
+  	<decoration type="model" name="factory_lg_02" />
+  	<decoration type="model" name="farm_shed1" />
+  	<decoration type="model" name="farm_shed2" />
+  	<decoration type="model" name="farm_shed3" />
+  	<decoration type="model" name="farm_shed4" />
+
+  	<decoration type="model" name="garageblue1" />
+  	<decoration type="model" name="garagebrick" />
+  	<decoration type="model" name="garageburnt1" />
+  	<decoration type="model" name="garagegreen1" />
+  	<decoration type="model" name="garagestucco1" />
+  	<decoration type="model" name="garagetan1" />
+  	<decoration type="model" name="garagewhite1" />
+  	<decoration type="model" name="garageyellow1" />
+  	<decoration type="model" name="gas_station1" />
+  	<decoration type="model" name="gas_station2" />
+  	<decoration type="model" name="gas_station3" />
+  	<decoration type="model" name="gas_station4" />
+  	<decoration type="model" name="gas_station5" />
+
+  	<decoration type="model" name="hotel_new_01" />
+  	<decoration type="model" name="house_new_mansion_01" />
+  	<decoration type="model" name="house_new_mansion_02" />
+  	<decoration type="model" name="house_new_mansion_03" />
+  	<decoration type="model" name="house_trailer_blue_01" />
+  	<decoration type="model" name="house_trailer_burnt_01" />
+  	<decoration type="model" name="house_trailer_green_01" />
+  	<decoration type="model" name="house_trailer_tan_01" />
+  	<decoration type="model" name="house_trailer_white_01" />
+  	<decoration type="model" name="house_trailer_yellow_01" />
+  	<decoration type="model" name="houseblue1" />
+  	<decoration type="model" name="housebrick1" />
+  	<decoration type="model" name="houseburnt1" />
+  	<decoration type="model" name="houseburnt2" />
+  	<decoration type="model" name="houseburnt3" />
+  	<decoration type="model" name="houseburnt3b" />
+  	<decoration type="model" name="houseburnt4" />
+  	<decoration type="model" name="houseburnt5" />
+  	<decoration type="model" name="housegreen1" />
+  	<decoration type="model" name="houseranchblue1" />
+  	<decoration type="model" name="houseranchtan1" />
+  	<decoration type="model" name="houseranchtan2" />
+  	<decoration type="model" name="houseranchwhite1" />
+  	<decoration type="model" name="housestucco1" />
+  	<decoration type="model" name="housestucco2" />
+  	<decoration type="model" name="housetan2" />
+  	<decoration type="model" name="housetanpyramid2" />
+  	<decoration type="model" name="housewhite1" />
+	<decoration type="model" name="housewhite1basement" />
+  	<decoration type="model" name="housewhite2" />
+  	<decoration type="model" name="housewhitepyramid1" />
+  	<decoration type="model" name="housewhitepyramid2" />
+  	<decoration type="model" name="housewhitepyramid3" />
+  	<decoration type="model" name="houseyellow1" />
+  	<decoration type="model" name="houseyellowpyramid3" />
+
+  	<decoration type="model" name="indian_burial_grounds_01" /> 
+  	<decoration type="model" name="junkyard_lg_01" />
+  	<decoration type="model" name="junkyard_med_01" />
+
+
+	<decoration type="model" name="mp_waste_bldg_01_red" />
+	<decoration type="model" name="mp_waste_bldg_01_tan" />
+	<decoration type="model" name="mp_waste_bldg_01_white" />
+  	<decoration type="model" name="mp_waste_bldg_02_red" />
+  	<decoration type="model" name="mp_waste_bldg_02_tan" />
+	<decoration type="model" name="mp_waste_bldg_03_red" />
+	<decoration type="model" name="mp_waste_bldg_03_tan" />
+	<decoration type="model" name="mp_waste_bldg_03_white" />
+	<decoration type="model" name="mp_waste_bldg_04_grey" />
+	<decoration type="model" name="mp_waste_bldg_04_red" />
+	<decoration type="model" name="mp_waste_bldg_04_tan" />
+	<decoration type="model" name="mp_waste_bldg_04_white" />
+	<decoration type="model" name="mp_waste_bldg_05_grey" />
+  	<decoration type="model" name="mp_waste_bldg_06_grey" />
+  	<decoration type="model" name="mp_waste_bldg_governer_08" />
+
+
+ 
+  	<decoration type="model" name="oldwest_church" />
+  	<decoration type="model" name="oldwest_gallows" />
+  	<decoration type="model" name="oldwest_graveyard" />
+  	<decoration type="model" name="oldwest_hotel_01" />
+  	<decoration type="model" name="oldwest_hotel_02" />
+  	<decoration type="model" name="oldwest_jail" />
+  	<decoration type="model" name="oldwest_md_shop_01" />
+  	<decoration type="model" name="oldwest_md_shop_02" />
+  	<decoration type="model" name="oldwest_md_shop_03" />
+  	<decoration type="model" name="oldwest_md_shop_04" />
+  	<decoration type="model" name="oldwest_sm_shop_01" />
+  	<decoration type="model" name="oldwest_sm_shop_02" />
+  	<decoration type="model" name="oldwest_sm_shop_03" />
+  	<decoration type="model" name="oldwest_stables" />
+  	<decoration type="model" name="oldwest_watertower" />
+
+  	<decoration type="model" name="parking_garage_01" />
+ 	<decoration type="model" name="parking_lot_01" />
+ 	<decoration type="model" name="parking_lot_02" />
+	<decoration type="model" name="police_station1" />
+  	<decoration type="model" name="ranger_station1" />
+
+  	<decoration type="model" name="sawmill_01_snow" />
+  	<decoration type="model" name="sign_slow" />
+  	<decoration type="model" name="sign_speed_25" />
+  	<decoration type="model" name="snowy_ski_lodge" />
+  	<decoration type="model" name="street_light_02" />
+  	<decoration type="model" name="store_book_lg_01" />
+  	<decoration type="model" name="store_book_sm_01" />
+  	<decoration type="model" name="store_grocery_lg_01" />
+  	<decoration type="model" name="store_grocery_sm_01" />
+	<decoration type="model" name="store_gun_lg_01" />
+  	<decoration type="model" name="store_gun_sm_01" />
+  	<decoration type="model" name="store_hardware_lg_01" />
+  	<decoration type="model" name="store_hardware_sm_01" />
+  	<decoration type="model" name="store_pharmacy_sm_01" />
+
+  	<decoration type="model" name="theater_01" />
+ 
+  	<decoration type="model" name="vacant_lot_sm_01" />
+  	<decoration type="model" name="vacant_lot_sm_02" />
+  	<decoration type="model" name="vacant_lot_med_01" />
+  	<decoration type="model" name="vacant_lot_med_02" />
+
+	<decoration type="model" name="waste_rubble_bldg_01" />
+	<decoration type="model" name="waste_rubble_bldg_04" />
+  	<decoration type="model" name="waste_rubble_bldg_06" />
+  	<decoration type="model" name="waste_rubble_bldg_07" />
+  	<decoration type="model" name="waste_rubble_bldg_08" />
+
+
+	<!-- Vanilla  - new to RWG -->
+  	<decoration type="model" name="blueberryfield_sm" />
+  	<decoration type="model" name="cornfield_lg" />
+  	<decoration type="model" name="cornfield_med" />
+  	<decoration type="model" name="house_trailer_burnt_01_intact" />
+  	<decoration type="model" name="houseburnt2_intact" />
+  	<decoration type="model" name="houseburnt3_intact" />
+  	<decoration type="model" name="houseburnt4_intact" />
+  	<decoration type="model" name="mp_waste_bldg_ornate_01_intact" />
+  	<decoration type="model" name="mp_waste_bldg_ornate_02_intact" />
+  	<decoration type="model" name="mp_waste_bldg_ornate_03_intact" />
+  	<decoration type="model" name="potatofield_sm" />
+  	<decoration type="model" name="school_01" />
+  	<decoration type="model" name="football_stadium" />  	
+
+	
+  	<!--   Custom Prefabs   -->
+  	<decoration type="model" name="RGPM_3BlockStores(by_Leo_Liuos)v2" />
+  	<decoration type="model" name="RGPM_ArtGallerySnow(by_Wsiegel)v2" />
+  	<decoration type="model" name="RGPM_ArtGallery(by_Wsiegel)v2" />
+  	<decoration type="model" name="RGPM_Asylum(by_Wsiegel)v2" />
+  	<decoration type="model" name="RGPM_AsylumCity(by_Wsiegel)v2" />
+  	<decoration type="model" name="RGPM_Bank(by_Limodor)v2" />
+  	<decoration type="model" name="RGPM_Bunker1(by_LazMan)v2" />
+  	<decoration type="model" name="RGPM_Bunker2(by_LazMan)v2" />
+  	<decoration type="model" name="RGPM_Bunker3(by_LazMan)v2" />
+  	<decoration type="model" name="RGPM_Cabin(by_Sudo)v2" />
+  	<decoration type="model" name="RGPM_Dealership(by_P1ut0nium)v2" />
+  	<decoration type="model" name="RGPM_DriveIn(by_Wsiegel)v2" />
+  	<decoration type="model" name="RGPM_Farm(by_BigC90210)v2" />
+  	<decoration type="model" name="RGPM_Firehouse(by_Warsaken)v2" />
+  	<decoration type="model" name="RGPM_Firestation(by_Slick50)v2" />
+  	<decoration type="model" name="RGPM_FuneralHome(by_Wsiegel)v2" />
+  	<decoration type="model" name="RGPM_FuneralParlor(by_Zombieman)v2" />
+  	<decoration type="model" name="RGPM_GasStation(by_Warsaken)v2" />
+  	<decoration type="model" name="RGPM_Gravetownstation(by_Caleb68)v2" />
+  	<decoration type="model" name="RGPM_H0bbit(by_Limodor)v2" />
+  	<decoration type="model" name="RGPM_Hightop(by_Curbolt)v2" />
+  	<decoration type="model" name="RGPM_HightopSnow(by_Curbolt)v2" />
+  	<decoration type="model" name="RGPM_Hospital(by_Limodor)v2" />
+  	<decoration type="model" name="RGPM_House(by_LastI)v2" />
+  	<decoration type="model" name="RGPM_House(by_ShoNuff)v2" />
+  	<decoration type="model" name="RGPM_kuldbrickhouse2_v2" />
+  	<decoration type="model" name="RGPM_kuldlargehouse_v2" />
+  	<decoration type="model" name="RGPM_LumberMill(by_IceJudge)v2" />
+  	<decoration type="model" name="RGPM_LumberMillSnow(by_IceJudge)v2" />
+  	<decoration type="model" name="RGPM_McDonalds(by_BigC90210)v2" />
+  	<decoration type="model" name="RGPM_McDonaldsSnow(by_BigC90210)v2" />
+  	<decoration type="model" name="RGPM_Motel(by_Limodor)v2" />
+  	<decoration type="model" name="RGPM_Motel7(by_Ekk0)v2" />
+  	<decoration type="model" name="RGPM_Nicehouse(by_BigC90210)v2" />
+  	<decoration type="model" name="RGPM_Nuket0wn(by_Limodor)v2" />
+  	<decoration type="model" name="RGPM_Office(by_Wsiegel)v2" />
+  	<decoration type="model" name="RGPM_Plant(by_Wsiegel)v2" />
+  	<decoration type="model" name="RGPM_Prison(by_Ekk0)v2" />
+  	<decoration type="model" name="RGPM_Recycling(by_Limodor)v2" />
+  	<decoration type="model" name="RGPM_Restaurant(by_Gertle)v2" />
+  	<decoration type="model" name="RGPM_RocketLaunchPad(by_Saeid)v2" />
+  	<decoration type="model" name="RGPM_Safehouse(by_Limodor)v2" />
+  	<decoration type="model" name="RGPM_School(by_LazMan)v2" />
+  	<decoration type="model" name="RGPM_ShoppingCenterMall(by_Warsaken)v2" />
+  	<decoration type="model" name="RGPM_ShoppingCenterShops(by_Warsaken)v2" />
+  	<decoration type="model" name="RGPM_Storage(by_ShoNuff)v2" />
+  	<decoration type="model" name="RGPM_StripClub(by_Wsiegel)v2" />
+  	<decoration type="model" name="RGPM_StripClubSnow(by_Wsiegel)v2" />
+  	<decoration type="model" name="RGPM_Tavern(by_Limodor)v2" />
+  	<decoration type="model" name="RGPM_TheEstate(by_Ekk0)v2" />
+  	<decoration type="model" name="RGPM_TheMill(by_MoNKeYest1)v2" />
+  	<decoration type="model" name="RGPM_TWDprison(by_LazMan)v2" />
+  	<decoration type="model" name="RGPM_Villa(by_Limodor)v2" />
+  	<decoration type="model" name="RGPM_Warehouse(by_Batman)v2" />
+  	<decoration type="model" name="RGPM_WulftownA(by_WereWulfen)v2" />
+  	<decoration type="model" name="RGPM_WulftownB(by_WereWulfen)v2" />
+  	<decoration type="model" name="RGPM_WulftownCD(by_WereWulfen)v2" />
+  	<decoration type="model" name="RGPM_WWHouse(by_IceJudge)v2" />
+  	<decoration type="model" name="RGPM_ZombieZoo(by_Wsiegel)v2" />
+
+  	<!--   Custom Prefabs  (magoli)  -->
+  	<decoration type="model" name="magoli_bowlingcenter_a11_v2" />
+  	<decoration type="model" name="magoli_crematory_a11_v2" />
+  	<decoration type="model" name="magoli_icestadium_a11_v2" />
+  	<decoration type="model" name="magoli_med_clinic_small_a11_v2" />
+  	<decoration type="model" name="magoli_minigolf_a11_v1" />
+  	<decoration type="model" name="magoli_myhouse_a11_v1" />
+  	<decoration type="model" name="magoli_pistol_gunshop_a11_v1" />
+  	<decoration type="model" name="magoli_shootingrange_a11_v2" />
+  	<decoration type="model" name="magoli_simpsonshouse_a11_v1" />
+  	<decoration type="model" name="magoli_stayouthouse_a11_v1" />
+  	<decoration type="model" name="magoli_strandresort_a11_v2" />
+  	<decoration type="model" name="magoli_stripclub_a11_v2" />
+  	<decoration type="model" name="magoli_swimmingbath_a11_v2" />
+  	<decoration type="model" name="magoli_tv_store_a11_v1" />
+	
+</prefabs>
